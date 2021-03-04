@@ -1,0 +1,8 @@
+——Student Profile——
+Name: Leon Roell 
+Major/minor: Computer science 
+Programming experience: 
+i have a lot of experience in python, a decent amount in c++, and regretably some in java
+i have actually been using vs code to work on firmware for my 3d printers
+What do you expect to learn in this couse?
+not to much at the start, as a i took a c++ last sem, but i have to retake it, but later on some neat sorting algorims
